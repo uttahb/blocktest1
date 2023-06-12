@@ -17,8 +17,8 @@
     "blocktest1pack": {
       "directory": "blocktest1pack"
     },
-    "blocktest1fn": {
-      "directory": "blocktest1fn"
+    "blocktest1_blocktest2": {
+      "directory": "blocktest1_blocktest2"
     }
   }
 }
