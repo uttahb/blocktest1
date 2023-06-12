@@ -1,0 +1,23 @@
+{
+  "blockId": "vexRpG-XddQnXCISZR0l0",
+  "name": "blocktest1pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_blocktest1pack"
+  },
+  "parentBlockIDs": [
+    "I-p-TgCzU8ARQi3RhECLv"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "blocktest1packpack": {
+      "directory": "blocktest1packpack"
+    }
+  }
+}

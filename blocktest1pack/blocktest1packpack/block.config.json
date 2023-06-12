@@ -1,0 +1,24 @@
+{
+  "blockId": "wANKEP40b51IGsmYsi36A",
+  "name": "blocktest1packpack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_blocktest1packpack"
+  },
+  "parentBlockIDs": [
+    "I-p-TgCzU8ARQi3RhECLv",
+    "vexRpG-XddQnXCISZR0l0"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "blocktest1packpackfn": {
+      "directory": "blocktest1packpackfn"
+    }
+  }
+}
