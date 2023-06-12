@@ -1,0 +1,21 @@
+{
+  "name": "blocktest1",
+  "type": "package",
+  "blockId": "I-p-TgCzU8ARQi3RhECLv",
+  "source": {
+    "https": "https://github.com/uttahb/blocktest1.git",
+    "ssh": "git@github.com:uttahb/blocktest1.git",
+    "branch": "block_blocktest1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "blocktest1pack": {
+      "directory": "blocktest1pack"
+    }
+  }
+}
