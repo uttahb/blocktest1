@@ -3,8 +3,8 @@
   "name": "blocktest1packpack",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/blocktest1.git",
+    "ssh": "git@github.com:uttahb/blocktest1.git",
     "branch": "block_blocktest1packpack"
   },
   "parentBlockIDs": [
