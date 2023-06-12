@@ -16,6 +16,9 @@
   "dependencies": {
     "blocktest1pack": {
       "directory": "blocktest1pack"
+    },
+    "blocktest1fn": {
+      "directory": "blocktest1fn"
     }
   }
 }
