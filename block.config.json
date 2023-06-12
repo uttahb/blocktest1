@@ -1,0 +1,27 @@
+{
+  "blockId": "OeES-w3-_pRKwF_erxeb0",
+  "name": "blocktest1_blocktest2pack",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/uttahb/blocktest1.git",
+    "ssh": "git@github.com:uttahb/blocktest1.git",
+    "branch": "block_blocktest1_blocktest2pack"
+  },
+  "parentBlockIDs": [
+    "I-p-TgCzU8ARQi3RhECLv",
+    "JSOvkWF01zITlIPS4T5z8"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "blocktest1_blocktest2packfn": {
+      "directory": "blocktest1_blocktest2packfn"
+    }
+  },
+  "version": "0.0.1",
+  "versionId": "KEfqqNbDrd_a-4BQm5EGz",
+  "variantOf": "KEfqqNbDrd_a-4BQm5EGz"
+}
